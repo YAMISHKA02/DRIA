@@ -46,7 +46,7 @@ else
 fi
 
 show "Распаковка dkn-compute-launcher..."
-unzip -o dkn-compute-node.zip -d dkn-compute-node
+unzip -o dkn-compute-node.zip
 cd dkn-compute-node
 
 # Запуск dkn-compute-launcher
